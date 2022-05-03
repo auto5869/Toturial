@@ -1,8 +1,12 @@
 First Git Commit.
 新增一行文字在這邊
+<<<<<<< HEAD
 Tutorial commit.
 <<<<<<< HEAD
 =======
 Tutorial2 commit.
 我是垃圾嗚嗚嗚。
 >>>>>>> 1e48859 (Tutorial2 commit.)
+=======
+Tutorial2 commit.
+>>>>>>> 8352f4b (Tutorial2 commit.)
